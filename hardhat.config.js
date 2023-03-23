@@ -5,6 +5,6 @@ module.exports = {
     version :"0.8.0"
   },
   path :{
-    artifacts :"./client/src/artifacts"
+    artifacts :"/artifacts"
   }
 };
